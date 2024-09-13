@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About SONU KUMAR
 🔭 I’m currently working on social media clone<br>🌱 I’m currently learning HLS<br>👨‍💻 All of my projects are available at https://portfolio-neon-psi-71.vercel.app/<br>📫 How to reach me sonukumarzeroone@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1EvMX_91_YBiRQ3vprS7LHosGlK1yqO_I/view?usp=sharing<br>⚡ Fun fact I do coding as a fun.
 
 
