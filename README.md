@@ -1,6 +1,6 @@
 # 💫 SONU KUMAR
-🔭 I’m currently working on an AI-powered matchmaking app and a social media platform.<br>
-🌱 I’m exploring serverless functions and optimizing recommendation systems.<br>
+🔭 I’m currently working on an Remote Driven Ui Architecture.<br>
+🌱 I’m exploring react native expo.<br>
 👨‍💻 Check out my projects: [Portfolio](https://portfolio-neon-psi-71.vercel.app/)<br>
 📫 Reach me at: [mail](mailto:sonukumarzeroone@gmail.com)<br>
 📄 Learn about my experience: [Resume](https://drive.google.com/file/d/1EvMX_91_YBiRQ3vprS7LHosGlK1yqO_I/view?usp=sharing)<br>
